@@ -7,7 +7,7 @@ Hi, I'm Shruti! I'm currently working as a Data Scientist at Twilio, based out o
 
 #### A few things I have worked on:
 - 🧠 [Spikesort](url), a MATLAB GUI sorter for neuronal waveforms from [the Smith Lab](https://smithlab.net/). In addition to Spikesort, I worked on custom command line MATLAB software to automatically sort and classify waveforms using cross validation, Gaussian mixture modeling, and principal components analysis.
-- 🩸 [Transplant Risk and Prediction Models](https://shiny.biostat.umn.edu/Transplant/), several R Shiny web apps to help potential live kidney donors evaluate their risk of donating a kidney. I worked on the original versions of these apps, and they have since been expanded upon by other researchers. [This work was published in the Journal of American Nephrology.](https://jasn.asnjournals.org/content/31/12/2968.1)
+- 🩸 [Transplant Risk and Prediction Models](https://shiny.biostat.umn.edu/Transplant/), several R Shiny web apps to help potential kidney donors evaluate their risk of donating a kidney. I worked on the original versions of these apps, and they have since been expanded upon by other researchers. [This work was published in the Journal of American Nephrology.](https://jasn.asnjournals.org/content/31/12/2968.1)
 
 
 <!--
